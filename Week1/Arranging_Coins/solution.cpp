@@ -1,3 +1,10 @@
+/*
+    Complexity Analysis:
+
+    Time - O(logn)
+    Space - O(1)
+*/
+
 class Solution {
 public:
     int arrangeCoins(int n) {
