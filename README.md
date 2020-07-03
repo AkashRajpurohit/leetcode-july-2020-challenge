@@ -7,6 +7,7 @@
 ## Week 1
 1. [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) ➡️ [CPP Solution](Week1/Arranging_Coins/solution.cpp)
 2. [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) ➡️ [CPP Solution](Week1/Binary_Tree_Level_Order_Traversal_II/solution.cpp)
+3. [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) ➡️ [CPP Solution](Week1/Prison_Cells_After_N_Days/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
