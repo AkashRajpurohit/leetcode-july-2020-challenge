@@ -1,6 +1,6 @@
 # Leetcode July 2020 Challenge Solutions
 
-> Major Solutions will be in CPP, might add solutions in other languages as well.
+> Solutions will be in CPP, might add solutions in other languages as well later.
 
 [Challenge Link](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
@@ -13,6 +13,8 @@
 6. [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) ➡️ [CPP Solution](Week1/Plus_One/solution.cpp)
 7. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) ➡️ [CPP Solution](Week1/Island_Perimeter/solution.cpp)
 
+## Week 2
+1. [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) ➡️ [CPP Solution](Week2/3Sum/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
