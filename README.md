@@ -11,6 +11,8 @@
 4. [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) ➡️ [CPP Solution](Week1/Ugly_Number_II/solution.cpp)
 5. [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) ➡️ [CPP Solution](Week1/Hamming_Distance/solution.cpp)
 6. [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) ➡️ [CPP Solution](Week1/Plus_One/solution.cpp)
+7. [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) ➡️ [CPP Solution](Week1/Island_Perimeter/solution.cpp)
+
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
