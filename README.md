@@ -2,6 +2,8 @@
 
 > Solutions will be in CPP, might add solutions in other languages as well later.
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajpurohit-leetcode-july.visitor-badge)
+
 [Challenge Link](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
 ## Week 1
