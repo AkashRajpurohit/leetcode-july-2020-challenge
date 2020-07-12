@@ -17,6 +17,7 @@
 1. [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) ➡️ [CPP Solution](Week2/3Sum/solution.cpp)
 2. [Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385) ➡️ [CPP Solution](Week2/Maximum_Width_of_Binary_Tree/solution.cpp)
 3. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386) ➡️ [CPP Solution](Week2/Flatten_a_Multilevel_Doubly_Linked_List/solution.cpp)
+4. [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) ➡️ [CPP Solution](Week2/Subsets/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
