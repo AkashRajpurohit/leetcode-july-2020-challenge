@@ -1,8 +1,6 @@
-# Leetcode July 2020 Challenge Solutions
+# Leetcode July 2020 Challenge Solutions | <img src="https://visitor-badge.glitch.me/badge?page_id=akashrajpurohit.leetcode-july-2020" alt="visitor badge"/> | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AkashRajpurohit/leetcode-july-2020-challenge/master)
 
 > Solutions will be in CPP, might add solutions in other languages as well later.
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=akashrajpurohit-leetcode-july.visitor-badge)
 
 [Challenge Link](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
