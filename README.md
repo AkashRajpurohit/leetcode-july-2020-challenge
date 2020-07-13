@@ -19,6 +19,7 @@
 3. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386) ➡️ [CPP Solution](Week2/Flatten_a_Multilevel_Doubly_Linked_List/solution.cpp)
 4. [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) ➡️ [CPP Solution](Week2/Subsets/solution.cpp)
 5. [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) ➡️ [CPP Solution](Week2/Reverse_Bits/solution.cpp)
+6. [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) ➡️ [CPP Solution](Week2/Same_Tree/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
