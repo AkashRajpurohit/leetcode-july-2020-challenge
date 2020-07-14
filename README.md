@@ -20,6 +20,7 @@
 4. [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) ➡️ [CPP Solution](Week2/Subsets/solution.cpp)
 5. [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) ➡️ [CPP Solution](Week2/Reverse_Bits/solution.cpp)
 6. [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) ➡️ [CPP Solution](Week2/Same_Tree/solution.cpp)
+7. [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) ➡️ [CPP Solution](Week2/Angle_Between_Hands_of_a_Clock/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
