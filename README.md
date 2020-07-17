@@ -24,6 +24,7 @@
 
 ## Week 3
 1. [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) ➡️ [JS Solution](Week3/Reverse_Words_in_a_String/solution.js)
+2. [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) ➡️ [CPP Solution](Week3/Pow(x,n)/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
