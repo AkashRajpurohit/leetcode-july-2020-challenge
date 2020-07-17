@@ -22,6 +22,9 @@
 6. [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) ➡️ [CPP Solution](Week2/Same_Tree/solution.cpp)
 7. [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) ➡️ [CPP Solution](Week2/Angle_Between_Hands_of_a_Clock/solution.cpp)
 
+## Week 3
+1. [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) ➡️ [JS Solution](Week3/Reverse_Words_in_a_String/solution.js)
+
 ## Where to find me?
 * [Website](https://akashwho.codes/)
 * [Linkedin](https://www.linkedin.com/in/AkashRajpurohit)
