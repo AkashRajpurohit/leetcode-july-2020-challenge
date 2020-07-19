@@ -27,6 +27,7 @@
 2. [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) ➡️ [CPP Solution](Week3/Pow(x,n)/solution.cpp)
 3. [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) ➡️ [CPP Solution](Week3/Top_K_Frequent_Elements/solution.cpp)
 4. [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) ➡️ [CPP Solution](Week3/Course_Schedule_II/solution.cpp)
+5. [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) ➡️ [CPP Solution](Week3/Add_Binary/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
