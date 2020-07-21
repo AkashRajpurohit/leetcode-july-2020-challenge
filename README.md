@@ -22,13 +22,14 @@
 6. [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) ➡️ [CPP Solution](Week2/Same_Tree/solution.cpp)
 7. [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) ➡️ [CPP Solution](Week2/Angle_Between_Hands_of_a_Clock/solution.cpp)
 
-## Week 3 🚧
+## Week 3 ✅
 1. [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) ➡️ [JS Solution](Week3/Reverse_Words_in_a_String/solution.js)
 2. [Pow(x, n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) ➡️ [CPP Solution](Week3/Pow(x,n)/solution.cpp)
 3. [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) ➡️ [CPP Solution](Week3/Top_K_Frequent_Elements/solution.cpp)
 4. [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) ➡️ [CPP Solution](Week3/Course_Schedule_II/solution.cpp)
 5. [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) ➡️ [CPP Solution](Week3/Add_Binary/solution.cpp)
 6. [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) ➡️ [CPP Solution](Week3/Remove_Linked_List_Elements/solution.cpp)
+7. [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) ➡️ [CPP Solution](Week3/Word_Search/solution.cpp)
 
 ## Week 4 🚧
 Coming Soon...
