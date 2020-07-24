@@ -33,6 +33,7 @@
 
 ## Week 4 🚧
 1. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) ➡️ [CPP Solution](Week4/Binary_Tree_Zigzag_Level_Order_Traversal/solution.cpp)
+2. [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) ➡️ [CPP Solution](Week4/Single_Number_III/solution.cpp)
 
 ## Week 5 🚧
 Coming Soon...
