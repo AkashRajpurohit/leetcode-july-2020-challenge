@@ -36,6 +36,7 @@
 2. [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) ➡️ [CPP Solution](Week4/Single_Number_III/solution.cpp)
 3. [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) ➡️ [CPP Solution](Week4/All_Paths_From_Source_to_Target/solution.cpp)
 4. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) ➡️ [CPP Solution](Week4/Find_Minimum_in_Rotated_Sorted_Array_II/solution.cpp)
+5. [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) ➡️ [CPP Solution]
 
 
 ## Week 5 🚧
