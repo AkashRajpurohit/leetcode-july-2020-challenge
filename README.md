@@ -31,13 +31,14 @@
 6. [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) ➡️ [CPP Solution](Week3/Remove_Linked_List_Elements/solution.cpp)
 7. [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) ➡️ [CPP Solution](Week3/Word_Search/solution.cpp)
 
-## Week 4 🚧
+## Week 4 ✅
 1. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) ➡️ [CPP Solution](Week4/Binary_Tree_Zigzag_Level_Order_Traversal/solution.cpp)
 2. [Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) ➡️ [CPP Solution](Week4/Single_Number_III/solution.cpp)
 3. [All Paths From Source to Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) ➡️ [CPP Solution](Week4/All_Paths_From_Source_to_Target/solution.cpp)
 4. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) ➡️ [CPP Solution](Week4/Find_Minimum_in_Rotated_Sorted_Array_II/solution.cpp)
 5. [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) ➡️ [CPP Solution](Week4/Add_Digits/solution.cpp)
 6. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) ➡️ [CPP Solution](Week4/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/solution.cpp)
+7. [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) ➡️ [CPP Solution](Week4/Task_Scheduler/solution.cpp)
 
 
 ## Week 5 🚧
