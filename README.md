@@ -42,7 +42,7 @@
 
 
 ## Week 5 🚧
-Coming Soon...
+1. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) ➡️ [CPP Solution](Week5/Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
