@@ -41,9 +41,10 @@
 7. [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) ➡️ [CPP Solution](Week4/Task_Scheduler/solution.cpp)
 
 
-## Week 5 🚧
+## Week 5 ✅
 1. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) ➡️ [CPP Solution](Week5/Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/solution.cpp)
 2. [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) ➡️ [CPP Solution](Week5/Word_Break_II/solution.cpp)
+3. [Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) ➡️ [CPP Solution](Week5/Climbing_Stairs/solution.cpp)
 
 ## Where to find me?
 * [Website](https://akashwho.codes/)
