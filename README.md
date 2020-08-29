@@ -46,7 +46,13 @@
 2. [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) ➡️ [CPP Solution](Week5/Word_Break_II/solution.cpp)
 3. [Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) ➡️ [CPP Solution](Week5/Climbing_Stairs/solution.cpp)
 
-## Where to find me?
+## Other Challenges 💪
+
+* [Leetcode August 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-august-2020-challenge)
+
+* [Leetcode September 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-september-2020-challenge)
+
+## Where to find me? 🌟
 * [Website](https://akashwho.codes/)
 * [Linkedin](https://www.linkedin.com/in/AkashRajpurohit)
 * [Instagram](https://www.instagram.com/akashwho.codes)
