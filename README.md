@@ -52,8 +52,10 @@
 
 * [Leetcode September 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-september-2020-challenge)
 
+* [Leetcode October 2020 Challenge](https://github.com/AkashRajpurohit/leetcode-october-2020-challenge)
+
 ## Where to find me? 🌟
-* [Website](https://akashwho.codes/)
+* [Website](https://akashrajpurohit.cf/)
 * [Linkedin](https://www.linkedin.com/in/AkashRajpurohit)
 * [Instagram](https://www.instagram.com/akashwho.codes)
 * [Twitter](https://www.twitter.com/AkashWhoCodes)
